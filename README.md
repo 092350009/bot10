@@ -1,2 +1,1 @@
-# bot10
-bot
+pytelegrambotapi
